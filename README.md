@@ -1,5 +1,7 @@
 # Awesome GPU Cloud Russia [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<img src=".github/banner.jpg" alt="Awesome GPU Cloud Russia — где арендовать облачную GPU для нейросетей из России" width="100%">
+
 > Где арендовать облачную видеокарту (GPU) для нейросетей из России: Stable Diffusion, ComfyUI, инференс LLM, обучение. Честный, проверяемый список с источниками.
 >
 > *English: a curated list of cloud GPU rental options available from Russia for AI/ML. English summary at the [bottom](#english-summary).*
