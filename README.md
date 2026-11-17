@@ -6,7 +6,7 @@
 >
 > *English: a curated list of cloud GPU rental options available from Russia for AI/ML. English summary at the [bottom](#english-summary).*
 
-**Последнее обновление: 2026-11-11.**
+**Последнее обновление: 2026-11-17.**
 
 **Раскрытие интересов:** автор списка делает сервис [gpu.nz](https://gpu.nz). Он включён в список и помечен как «сервис автора списка». Остальные сервисы описаны по их собственным страницам; ссылки на источники приведены. Если вы нашли ошибку, откройте PR (см. [CONTRIBUTING.md](CONTRIBUTING.md)).
 
@@ -80,7 +80,7 @@
 | Modal | Serverless-запуск Python-кода на GPU | См. страницу цен | Не проверено | [цены](https://modal.com/pricing) |
 | Paperspace | GPU-машины и ноутбуки | См. сайт | Не проверено | [сайт](https://www.paperspace.com) |
 | Together AI | Инференс и дообучение моделей по API | См. страницу цен | Не проверено | [цены](https://www.together.ai/pricing) |
-| QIT | Model API + serverless/reserved GPU; liquid-cooled GPU containers | Посекундная (Pods) / см. [цены](https://qit.energy/pricing) | Не проверено | [цены](https://qit.energy/pricing) |
+| QIT | API моделей, бессерверные и зарезервированные GPU, контейнеры на серверах с жидкостным охлаждением | Посекундная (Pods), см. [цены](https://qit.energy/pricing) | Не проверено | [цены](https://qit.energy/pricing) |
 | Lightning AI | Облачные студии с GPU, есть бесплатный уровень | См. сайт | Не проверено | [сайт](https://lightning.ai/) |
 | CloudGPU (сервис автора PR) | Аренда RTX 4090/5090 для обучения, инференса и ComfyUI | См. каталог | Не проверено | [сайт и каталог](https://cloudgpu.app/) · [документация](https://cloudgpu.app/docs) |
 
@@ -168,7 +168,7 @@ Kaggle Notebooks (бесплатно, с лимитами), Lightning AI, либ
 
 ## English summary
 
-A curated, source-linked list of where to rent cloud GPUs from Russia for AI/ML (Stable Diffusion, ComfyUI, LLM inference, training). Russian providers covered: Selectel, Yandex Cloud, VK Cloud, Cloud.ru, immers.cloud, Timeweb Cloud, REG.RU, HOSTKEY, ITGLOBAL, MWS. gpu.nz is the list maintainer's own service and is disclosed as such: per-minute billing, RTX 3060 to H100, top-ups via the Russian SBP instant-payment system or crypto (CryptoBot), with ComfyUI, Forge, Jupyter, Ollama and vLLM templates. International services (RunPod, Lambda, Modal, Paperspace, Together AI, Lightning AI) are linked, but we did not verify whether payments from Russia work ("не проверено"). Free options (Google Colab, Kaggle, Hugging Face Spaces) have changing, non-guaranteed limits. Prices are listed only when found on the provider's own page (October 2026) and always link to the source. The VRAM table gives rough weight sizes (for example, a 70B LLM needs about 35 GB at 4-bit and 140 GB at 16-bit).
+A curated, source-linked list of where to rent cloud GPUs from Russia for AI/ML (Stable Diffusion, ComfyUI, LLM inference, training). Russian providers covered: Selectel, Yandex Cloud, VK Cloud, Cloud.ru, immers.cloud, Timeweb Cloud, REG.RU, HOSTKEY, ITGLOBAL, MWS. gpu.nz is the list maintainer's own service and is disclosed as such: per-minute billing, RTX 3060 to H100, top-ups via the Russian SBP instant-payment system or crypto (CryptoBot), with ComfyUI, Forge, Jupyter, Ollama and vLLM templates. International services (RunPod, Lambda, Modal, Paperspace, Together AI, QIT, Lightning AI, CloudGPU) are linked, but we did not verify whether payments from Russia work ("не проверено"). Free options (Google Colab, Kaggle, Hugging Face Spaces) have changing, non-guaranteed limits. Prices are listed only when found on the provider's own page (October 2026) and always link to the source. The VRAM table gives rough weight sizes (for example, a 70B LLM needs about 35 GB at 4-bit and 140 GB at 16-bit).
 
 ## Участие
 
